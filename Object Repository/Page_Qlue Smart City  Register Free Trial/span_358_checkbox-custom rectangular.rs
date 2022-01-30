@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_358_checkbox-custom rectangular</name>
+   <tag></tag>
+   <elementGuidId>30efa1b4-135c-4741-9464-05a4ef594699</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkbox-custom.rectangular</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/main/div/div[2]/form/div/div[8]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom rectangular</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/main[1]/div[@class=&quot;styles__Container-e1t52r-0 hHOKL&quot;]/div[@class=&quot;styles__RightContainer-e1t52r-5 bMOivS&quot;]/form[@class=&quot;style__FormRegister-jutyp6-0 hpDzEx&quot;]/div[@class=&quot;style__BoxRegister-jutyp6-1 ioEjpb&quot;]/div[@class=&quot;style__CheckUpdate-jutyp6-4 dXBhrp&quot;]/div[@class=&quot;style__Container-xv2gn3-0 jzjHZj&quot;]/label[@class=&quot;checkbox-label&quot;]/span[@class=&quot;checkbox-custom rectangular&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/main/div/div[2]/form/div/div[8]/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+   </webElementXpaths>
+</WebElementEntity>
